@@ -4,9 +4,8 @@ Welcome to star this repository!
 
 Here we provide procedures for deep learning TCN model to predict the solar activity cycle, one is with a multi-step model and the other is with a single-step model.
 
-(1) one-step pattern:  the m steps historical data are 136 input to the model, and predict n steps future data
-
-(2) multi-step pattern: The m steps historical data are input to predict one 146 future value. 
+- the one-step pattern:  the m steps historical data are 136 input to the model, and predict n steps future data
+- the multi-step pattern: The m steps historical data are input to predict one 146 future value. 
 
 ### Data
 
